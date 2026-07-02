@@ -31,3 +31,6 @@ Amazon-Clone/
 └── assets/
     └── images/
 ```
+## Preview
+
+![Amazon Clone](assets/images/preview.png)
